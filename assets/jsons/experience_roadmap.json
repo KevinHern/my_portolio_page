@@ -1,0 +1,35 @@
+{
+    "workplaces": [
+        {
+            "initYear": 2018,
+            "endYear": 2018,
+            "initMonth": 6,
+            "endMonth": 7,
+            "role": "Developer",
+            "workplace": "Intesistemas",
+            "description": "Provided help for designing automated Reporting Systems for clients using Microsoft Dynamics 365.",
+            "categories": ["Reporting", "Microsoft 365"],
+            "url": null
+        },
+        {
+            "initYear": 2020,
+            "endYear": -1,
+            "initMonth": 12,
+            "role": "Developer & Project Assistant",
+            "workplace": "Galileo University",
+            "description": "Created multiple types of projects ranging multiple technology areas. Developed web and mobile apps for internal management, for competition and for external entities such as World Vision Guatemala. I also developed AI projects to improve the quality of existent projects and also introducing new innovating ideas such as image modification and also body movement detection; being the last one a project presented in the event MakerFaire CDMX 2023. Additionally, I designed friendly and automatized logistics of some internal processes.",
+            "categories": ["AI", "App Dev", "IoT", "Microcontroller"],
+            "url": "https://www.galileo.edu"
+        },
+        {
+            "initYear": 2022,
+            "endYear": -1,
+            "initMonth": 1,
+            "role": "AI Professor",
+            "workplace": "Galileo University",
+            "description": "Teach engineering students about Artificial Intelligence, specifically Deep Learning Area. Additionally, I have redesigned the class twice to always keep up with the current trends in the AI Industry.",
+            "categories": ["AI", "Teaching", "University"],
+            "url": "https://www.galileo.edu"
+        }
+    ]
+}

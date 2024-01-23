@@ -1,0 +1,142 @@
+{
+   "skills":[
+      {
+         "iconName":"public_speech",
+         "skillName":"Public Speech",
+         "skillProficiency":4.0,
+         "category":"communication"
+      },
+      {
+         "iconName":"letter",
+         "skillName":"Written Communication",
+         "skillProficiency":4.0,
+         "category":"communication"
+      },
+      {
+         "iconName":"document",
+         "skillName":"Documentation",
+         "skillProficiency":4.0,
+         "category":"communication"
+      },
+      {
+         "iconName":"translate",
+         "skillName":"Translation",
+         "skillProficiency":4.0,
+         "category":"communication"
+      },
+      {
+         "iconName":"critical_thinking",
+         "skillName":"Critical Thinking",
+         "skillProficiency":5.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"brainstorm",
+         "skillName":"Brainstorming",
+         "skillProficiency":4.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"gears1",
+         "skillName":"Simplifying",
+         "skillProficiency":5.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"gears2",
+         "skillName":"Inductive Reasoning",
+         "skillProficiency":4.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"structure",
+         "skillName":"Structural Thinking",
+         "skillProficiency":5.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"modeling",
+         "skillName":"Abstraction & Modeling",
+         "skillProficiency":5.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"modules",
+         "skillName":"Modularization",
+         "skillProficiency":5.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"refactor",
+         "skillName":"Refactoring",
+         "skillProficiency":4.0,
+         "category":"problemSolving"
+      },
+      {
+         "iconName":"project_management",
+         "skillName":"Project Management",
+         "skillProficiency":4.0,
+         "category":"leadership"
+      },
+      {
+         "iconName":"teaching",
+         "skillName":"Teaching",
+         "skillProficiency":5.0,
+         "category":"leadership"
+      },
+      {
+         "iconName":"coaching",
+         "skillName":"Coaching",
+         "skillProficiency":3.0,
+         "category":"leadership"
+      },
+      {
+         "iconName":"ui",
+         "skillName":"UI Development",
+         "skillProficiency":4.0,
+         "category":"design"
+      },
+      {
+         "iconName":"ux",
+         "skillName":"UX Development",
+         "skillProficiency":3.0,
+         "category":"design"
+      },
+      {
+         "iconName":"layout",
+         "skillName":"Layout Development",
+         "skillProficiency":4.0,
+         "category":"design"
+      },
+      {
+         "iconName":"prototype",
+         "skillName":"Prototyping",
+         "skillProficiency":4.0,
+         "category":"design"
+      },
+      {
+         "iconName":"sort",
+         "skillName":"Organized",
+         "skillProficiency":5.0,
+         "category":"interpersonal"
+      },
+      {
+         "iconName":"time",
+         "skillName":"Time Management",
+         "skillProficiency":5.0,
+         "category":"interpersonal"
+      },
+      {
+         "iconName":"google",
+         "skillName":"Design Thinking",
+         "skillProficiency":4.0,
+         "category":"other"
+      },
+      {
+         "iconName":"graph",
+         "skillName":"Numerical Analysis",
+         "skillProficiency":4.0,
+         "category":"other"
+      }
+   ]
+}
