@@ -13,8 +13,9 @@
         },
         {
             "initYear": 2020,
-            "endYear": -1,
+            "endYear": 2024,
             "initMonth": 12,
+            "endMonth": 4,
             "role": "Developer & Project Assistant",
             "workplace": "Galileo University",
             "description": "Created multiple types of projects ranging multiple technology areas. Developed web and mobile apps for internal management, for competition and for external entities such as World Vision Guatemala. I also developed AI projects to improve the quality of existent projects and also introducing new innovating ideas such as image modification and also body movement detection; being the last one a project presented in the event MakerFaire CDMX 2023. Additionally, I designed friendly and automatized logistics of some internal processes.",
@@ -25,10 +26,10 @@
             "initYear": 2022,
             "endYear": -1,
             "initMonth": 1,
-            "role": "AI Professor",
+            "role": "AI Instructor",
             "workplace": "Galileo University",
             "description": "Teach engineering students about Artificial Intelligence, specifically Deep Learning Area. Additionally, I have redesigned the class twice to always keep up with the current trends in the AI Industry.",
-            "categories": ["AI", "Teaching", "University"],
+            "categories": ["AI", "Education", "University"],
             "url": "https://www.galileo.edu"
         }
     ]
