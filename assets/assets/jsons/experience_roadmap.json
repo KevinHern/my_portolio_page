@@ -27,10 +27,31 @@
             "endYear": -1,
             "initMonth": 1,
             "role": "AI Instructor",
-            "workplace": "Galileo University",
+            "workplace": "Galileo University - Innovation Laboratory",
             "description": "Teach engineering students about Artificial Intelligence, specifically Deep Learning Area. Additionally, I have redesigned the class twice to always keep up with the current trends in the AI Industry.",
             "categories": ["AI", "Education", "University"],
             "url": "https://www.galileo.edu"
+        },
+        {
+            "initYear": 2024,
+            "endYear": -1,
+            "initMonth": 2,
+            "role": "Freelancing",
+            "workplace": "Grupo Negocios Investo",
+            "description": "Provided Project Management services and developed Android Application solutions using Kotlin and Firebase.",
+            "categories": ["Freelance", "Project Management", "App Dev", "Kotlin", "Firebase"],
+            "url": null
+        },
+        {
+            "initYear": 2020,
+            "endYear": 2020,
+            "initMonth": 3,
+            "endMonth": 6,
+            "role": "Freelancing",
+            "workplace": "Galileo University - FACISA",
+            "description": "Developed an Android Application solution using Flutter and Firebase to help physiotherapists keep track of their patients' routine progress and to help their patients record their progress and to perform exercises.",
+            "categories": ["Freelance", "App Dev", "Flutter", "Firebase", "Physiotherapist"],
+            "url": null
         }
     ]
 }

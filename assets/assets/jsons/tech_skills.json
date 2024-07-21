@@ -19,12 +19,6 @@
          "techSkillCategory":"programmingLanguage"
       },
       {
-         "iconName":"dart",
-         "skillName":"Dart",
-         "skillProficiency":5.0,
-         "techSkillCategory":"programmingLanguage"
-      },
-      {
          "iconName":"java",
          "skillName":"Java",
          "skillProficiency":5.0,
@@ -33,12 +27,6 @@
       {
          "iconName":"javascript",
          "skillName":"Javascript",
-         "skillProficiency":4.0,
-         "techSkillCategory":"programmingLanguage"
-      },
-      {
-         "iconName":"kotlin",
-         "skillName":"Kotlin",
          "skillProficiency":4.0,
          "techSkillCategory":"programmingLanguage"
       },
@@ -58,12 +46,6 @@
          "iconName":"flutter",
          "skillName":"Flutter",
          "skillProficiency":5.0,
-         "techSkillCategory":"appDevelopment"
-      },
-      {
-         "iconName":"jetpack_compose",
-         "skillName":"Jetpack Compose",
-         "skillProficiency":4.0,
          "techSkillCategory":"appDevelopment"
       },
       {
