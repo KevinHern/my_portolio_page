@@ -37,7 +37,7 @@
             "endYear": -1,
             "initMonth": 2,
             "role": "Freelancing",
-            "workplace": "Grupo Negocios Investo",
+            "workplace": "Grupo de Negocios Investo",
             "description": "Provided Project Management services and developed Android Application solutions using Kotlin and Firebase.",
             "categories": ["Freelance", "Project Management", "App Dev", "Kotlin", "Firebase"],
             "url": null
@@ -51,6 +51,16 @@
             "workplace": "Galileo University - FACISA",
             "description": "Developed an Android Application solution using Flutter and Firebase to help physiotherapists keep track of their patients' routine progress and to help their patients record their progress and to perform exercises.",
             "categories": ["Freelance", "App Dev", "Flutter", "Firebase", "Physiotherapist"],
+            "url": null
+        },
+        {
+            "initYear": 2024,
+            "endYear": -1,
+            "initMonth": 8,
+            "role": "Programmer and Developer of New Technologies",
+            "workplace": "TAS - Tecnología, Acceso & Seguridad",
+            "description": "Leading and programming new technology projects",
+            "categories": ["Project Management", "App Dev"],
             "url": null
         }
     ]
